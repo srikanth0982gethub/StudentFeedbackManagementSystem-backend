@@ -1,0 +1,4 @@
+com\studentfeedback\StudentFeedbackApplication.class
+com\studentfeedback\controller\FeedbackController.class
+com\studentfeedback\entity\Feedback.class
+com\studentfeedback\repository\FeedbackRepository.class
